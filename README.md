@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=260&section=header&text=ZOHAIB%20KHAN&fontSize=60&fontColor=C77DFF&animation=fadeIn&fontAlignY=42&desc=Engineer%20across%20AI%2FML%2C%20Cloud%20and%20Data%20Systems&descAlignY=62&descSize=20&descColor=E0AAFF" width="100%"/>
+<img src="assets/galaxy-banner.svg" width="100%"/>
 
 </div>
 
@@ -8,13 +8,13 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1200&color=C77DFF&center=true&vCenter=true&width=800&lines=I+design%2C+train%2C+and+ship+production+ML+systems;From+raw+data+to+deployed%2C+scalable+products;10%2C000%2B+users+served+by+systems+I+built" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1200&color=7DD3FC&center=true&vCenter=true&width=800&lines=I+design%2C+train%2C+and+ship+production+ML+systems;From+raw+data+to+deployed%2C+scalable+products;10%2C000%2B+users+served+by+systems+I+built" alt="Typing SVG"/>
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/zohaib-khan"><img src="https://img.shields.io/badge/LinkedIn-9D4EDD?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:zk05303@gmail.com"><img src="https://img.shields.io/badge/Email-9D4EDD?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/TheZohaibKhan"><img src="https://img.shields.io/badge/GitHub-9D4EDD?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://linkedin.com/in/zohaib-khan"><img src="https://img.shields.io/badge/LinkedIn-1E3A5F?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:zk05303@gmail.com"><img src="https://img.shields.io/badge/Email-1E3A5F?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/TheZohaibKhan"><img src="https://img.shields.io/badge/GitHub-1E3A5F?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 
@@ -129,16 +129,16 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TheZohaibKhan&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0F0C29&title_color=C77DFF&icon_color=C77DFF&text_color=E0AAFF&count_private=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheZohaibKhan&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0F0C29&title_color=C77DFF&text_color=E0AAFF"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=TheZohaibKhan&show_icons=true&theme=dark&hide_border=true&bg_color=0A0E1F&title_color=7DD3FC&icon_color=7DD3FC&text_color=93C5FD&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheZohaibKhan&layout=compact&theme=dark&hide_border=true&bg_color=0A0E1F&title_color=7DD3FC&text_color=93C5FD"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TheZohaibKhan&theme=midnight-purple&hide_border=true&background=0F0C29&ring=C77DFF&fire=C77DFF&currStreakLabel=C77DFF"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TheZohaibKhan&theme=dark&hide_border=true&background=0A0E1F&ring=7DD3FC&fire=7DD3FC&currStreakLabel=7DD3FC"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TheZohaibKhan&theme=react-dark&hide_border=true&bg_color=0F0C29&color=C77DFF&line=C77DFF&point=E0AAFF" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TheZohaibKhan&theme=react-dark&hide_border=true&bg_color=0A0E1F&color=7DD3FC&line=7DD3FC&point=93C5FD" width="100%"/>
 
 </div>
 
@@ -148,15 +148,15 @@
 
 ## 🚀 Let's Build Something
 
-<a href="https://linkedin.com/in/zohaib-khan"><img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-9D4EDD?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:zk05303@gmail.com"><img src="https://img.shields.io/badge/-Get%20in%20Touch-9D4EDD?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/zohaib-khan"><img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-1E3A5F?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:zk05303@gmail.com"><img src="https://img.shields.io/badge/-Get%20in%20Touch-1E3A5F?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=TheZohaibKhan&style=for-the-badge&color=9D4EDD&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=TheZohaibKhan&style=for-the-badge&color=1E3A5F&label=PROFILE+VIEWS"/>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=100&section=footer" width="100%"/>
+<img src="assets/galaxy-footer.svg" width="100%"/>
 
 </div>
