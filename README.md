@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=260&section=header&text=ZOHAIB%20KHAN&fontSize=60&fontColor=C77DFF&animation=fadeIn&fontAlignY=42&desc=Engineer%20across%20AI%2FML%2C%20Cloud%20%26%20Data%20Systems&descAlignY=62&descSize=20&descColor=E0AAFF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=260&section=header&text=ZOHAIB%20KHAN&fontSize=60&fontColor=C77DFF&animation=fadeIn&fontAlignY=42&desc=Engineer%20across%20AI%2FML%2C%20Cloud%20and%20Data%20Systems&descAlignY=62&descSize=20&descColor=E0AAFF" width="100%"/>
 
 </div>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1200&color=C77DFF&center=true&vCenter=true&width=800&lines=I+design%2C+train%2C+and+ship+production+ML+systems;From+raw+data+to+deployed%2C+scalable+products;10%2C000%2B+users+served+by+systems+I've+built" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1200&color=C77DFF&center=true&vCenter=true&width=800&lines=I+design%2C+train%2C+and+ship+production+ML+systems;From+raw+data+to+deployed%2C+scalable+products;10%2C000%2B+users+served+by+systems+I+built" alt="Typing SVG"/>
 
 <br/><br/>
 
