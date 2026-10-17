@@ -84,77 +84,17 @@ OPEN_TO   =  AI/ML Engineer  |  MLOps / Cloud  |  Data Scientist  |  Python-Djan
 ## `> ls ~/projects`
 
 <details open>
-<summary><b>INSAT-3DS SST Retrieval &mdash; ML pipeline at ISRO SAC</b></summary>
+<summary><b>AgriSmart &mdash; AI Agriculture Platform (Crop-Prediction)</b></summary>
 <br/>
 
-End-to-end satellite ML system that retrieves sea surface temperature from INSAT-3DS data, covering ingestion, cloud masking, feature engineering, optimisation and ensembling.
+Django web app for farmers with crop recommendation, fertilizer guidance, plant-disease prediction, and a crop marketplace.
 
 | Aspect | Detail |
 | :-- | :-- |
-| **Stack** | Python &middot; XGBoost &middot; TensorFlow &middot; Optuna &middot; Pandas &middot; HDF5 |
-| **Scale** | 172,672 satellite and buoy records, 3,000+ lines of Python |
-| **Impact** | **RMSE 0.229°C, R² = 0.991**, about 80% better than ISRO's ATBD baseline; XGBoost RMSE cut from 0.28 to 0.19°C via Optuna |
-| **Repo** | Internal research work, not public |
-
-</details>
-
-<details>
-<summary><b>AgriSmart &mdash; AI Agriculture SaaS</b></summary>
-<br/>
-
-Full-stack platform for farmers with plant disease detection, crop and fertilizer recommendations, and a zero-commission marketplace.
-
-| Aspect | Detail |
-| :-- | :-- |
-| **Stack** | Django 6 &middot; VGG19 CNN &middot; Random Forest &middot; Naive Bayes &middot; PostgreSQL &middot; Celery &middot; Redis |
-| **Scale** | 10,000+ farmers, 2,400+ vendors, 6 live API integrations |
+| **Stack** | Python &middot; Django &middot; TensorFlow / Keras &middot; NumPy &middot; SQLite &middot; Jupyter |
+| **Scale** | Farmer and vendor roles; 10,000+ farmers and 2,400+ vendors |
 | **Impact** | 95%+ disease-detection accuracy across 38 diseases; 22-crop recommendation engine |
 | **Repo** | [Crop-Prediction](https://github.com/TheZohaibKhan/Crop-Prediction) |
-
-</details>
-
-<details>
-<summary><b>FakeNewsRadar &mdash; Multi-Agent LLM Fact-Checker</b></summary>
-<br/>
-
-Multi-agent system for automated news fact-checking, credibility scoring and correction-report generation.
-
-| Aspect | Detail |
-| :-- | :-- |
-| **Stack** | LangGraph &middot; Claude API &middot; Django REST &middot; spaCy &middot; PostgreSQL |
-| **Scale** | 4-agent pipeline with live evidence retrieval |
-| **Impact** | Truth scoring, PostgreSQL audit logging and structured outputs |
-| **Status** | In development |
-
-</details>
-
-<details>
-<summary><b>DisasterEye &mdash; Satellite Disaster Detection</b></summary>
-<br/>
-
-Cloud-native platform that detects floods and wildfires from satellite imagery and sends real-time alerts.
-
-| Aspect | Detail |
-| :-- | :-- |
-| **Stack** | PyTorch &middot; UNet CNN &middot; AWS Lambda &middot; S3 &middot; Terraform |
-| **Scale** | Serverless, infrastructure fully defined as code |
-| **Impact** | Automated WhatsApp / SMS alerts from detections |
-| **Status** | In development |
-
-</details>
-
-<details>
-<summary><b>PowerGrid Anomaly Sentinel &mdash; Kafka + ML Streaming</b></summary>
-<br/>
-
-Real-time IoT analytics for detecting electricity theft and equipment failures.
-
-| Aspect | Detail |
-| :-- | :-- |
-| **Stack** | Kafka &middot; PySpark &middot; Isolation Forest &middot; PostgreSQL &middot; Grafana &middot; Docker Compose |
-| **Scale** | 10,000 simulated smart meters |
-| **Impact** | Containerised pipeline with one-command Docker deployment |
-| **Status** | In development |
 
 </details>
 
@@ -168,7 +108,7 @@ Exam and assessment platform with separate teacher and student workflows, AI que
 | :-- | :-- |
 | **Stack** | Laravel 12 &middot; Livewire 4 &middot; PostgreSQL + pgvector &middot; multi-provider AI &middot; Render |
 | **Scale** | Role-based permissions, server-side exam timing, AI usage controls, automated tests |
-| **Impact** | Semantic similarity search, CSV import, results and leaderboards |
+| **Impact** | Semantic similarity search, CSV question import, results and leaderboards |
 | **Links** | [Live demo](https://ai-quiz-engine-b049.onrender.com) &middot; [Repo](https://github.com/TheZohaibKhan/AI-Quiz-Engine) |
 
 </details>
@@ -189,16 +129,77 @@ Web app that hides AES-256 encrypted data inside media files using Genetic Algor
 </details>
 
 <details>
-<summary><b>More repositories</b></summary>
+<summary><b>SEHR &mdash; Secure Electronic Health Records on Blockchain</b></summary>
 <br/>
 
-| Project | Stack | Link |
-| :-- | :-- | :-- |
-| **SEHR**, blockchain health records demo | React &middot; Solidity &middot; Web3.js &middot; MetaMask &middot; IPFS / Pinata | [Demo](https://thezohaibkhan.github.io/EHR/) &middot; [Repo](https://github.com/TheZohaibKhan/EHR) |
-| **Renewable Energy Dashboard**, solar analytics | Next.js 15 &middot; React 19 &middot; TypeScript &middot; Chart.js | [Demo](https://thezohaibkhan.github.io/renewable-energy-dashboard/) &middot; [Repo](https://github.com/TheZohaibKhan/renewable-energy-dashboard) |
-| **AIParentBot**, voice-emotion assistant prototype | Python &middot; Librosa &middot; scikit-learn &middot; SQLite | [Repo](https://github.com/TheZohaibKhan/AIParentBot) |
-| **AI Documentation Assistant**, GitHub Action | Python &middot; OpenAI-compatible LLMs | [Repo](https://github.com/TheZohaibKhan/AI-Documentation-Assistant) |
-| **AI Travel Planner**, multi-agent trip planner | LangGraph &middot; Gemini &middot; Streamlit &middot; Supabase | [Repo](https://github.com/TheZohaibKhan/openai-agents-travel-graph) |
+Decentralised EHR demo where patients, doctors and diagnostic centres interact through smart contracts, with medical files stored off-chain on IPFS.
+
+| Aspect | Detail |
+| :-- | :-- |
+| **Stack** | React &middot; Solidity &middot; Web3.js &middot; MetaMask &middot; IPFS / Pinata |
+| **Scale** | Role-based pages for patient, doctor, diagnostic and admin users |
+| **Impact** | Record references on-chain, large files off-chain via content identifiers (CIDs) |
+| **Links** | [Demo](https://thezohaibkhan.github.io/EHR/) &middot; [Repo](https://github.com/TheZohaibKhan/EHR) |
+
+</details>
+
+<details>
+<summary><b>Renewable Energy Forecasting &amp; Solar Analytics Dashboard</b></summary>
+<br/>
+
+Interactive dashboard for uploading energy datasets, comparing prediction approaches and visualising solar power plant performance in the browser.
+
+| Aspect | Detail |
+| :-- | :-- |
+| **Stack** | Next.js 15 &middot; React 19 &middot; TypeScript &middot; Tailwind CSS &middot; Chart.js |
+| **Scale** | CSV / Excel upload with in-browser processing |
+| **Impact** | Compares several models and reports MAE, RMSE and R&sup2; with switchable charts |
+| **Links** | [Demo](https://thezohaibkhan.github.io/renewable-energy-dashboard/) &middot; [Repo](https://github.com/TheZohaibKhan/renewable-energy-dashboard) |
+
+</details>
+
+<details>
+<summary><b>AIParentBot &mdash; Voice-Emotion Assistant (Prototype)</b></summary>
+<br/>
+
+Local Python voice assistant that records speech, estimates emotion from audio, transcribes it and replies with text-to-speech, saving chats in SQLite.
+
+| Aspect | Detail |
+| :-- | :-- |
+| **Stack** | Python &middot; Librosa &middot; scikit-learn &middot; SpeechRecognition &middot; ElevenLabs &middot; SQLite |
+| **Scale** | Single-user local prototype |
+| **Impact** | MFCC-based emotion classifier, conversation memory, model training scripts |
+| **Repo** | [AIParentBot](https://github.com/TheZohaibKhan/AIParentBot) |
+
+</details>
+
+<details>
+<summary><b>AI Documentation Assistant &mdash; GitHub Action</b></summary>
+<br/>
+
+GitHub Action that reads a PR's code changes, finds the docs that need updating, and opens a docs PR using any OpenAI-compatible LLM.
+
+| Aspect | Detail |
+| :-- | :-- |
+| **Stack** | Python &middot; GitHub Actions &middot; OpenAI-compatible LLMs |
+| **Scale** | Works on any repo via PR comment commands (review-docs, update-docs, review-feature) |
+| **Impact** | Checkbox review of suggested doc changes, plus spec-vs-code analysis against Jira tickets |
+| **Repo** | [AI-Documentation-Assistant](https://github.com/TheZohaibKhan/AI-Documentation-Assistant) |
+
+</details>
+
+<details>
+<summary><b>AI Travel Planner &mdash; Multi-Agent Trip Planner</b></summary>
+<br/>
+
+Multi-agent system that turns a natural-language travel request into a structured plan covering destinations, flights, stays, activities and budget.
+
+| Aspect | Detail |
+| :-- | :-- |
+| **Stack** | LangGraph &middot; OpenAI Agents SDK &middot; Gemini &middot; Streamlit &middot; Supabase |
+| **Scale** | Specialised agents for each part of the trip, coordinated by an orchestrator |
+| **Impact** | Budget-aware itineraries with alternatives and day-by-day schedules |
+| **Repo** | [openai-agents-travel-graph](https://github.com/TheZohaibKhan/openai-agents-travel-graph) |
 
 </details>
 
