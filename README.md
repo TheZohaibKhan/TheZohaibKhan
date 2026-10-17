@@ -265,11 +265,6 @@ Web app that hides AES-256 encrypted data inside media files using Genetic Algor
 | Python, Django Framework & HTML5 Stack | Udemy | Apr 2025 |
 | Microsoft Excel: Beginner to Advanced | Udemy | Feb 2025 |
 
-<div align="center">
-
-![SPPU](https://img.shields.io/badge/B.E._Computer_Engineering-SPPU_2022--2026-FF9F1C?style=for-the-badge&labelColor=1F2937)
-
-</div>
 
 ---
 
