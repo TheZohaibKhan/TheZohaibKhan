@@ -1,10 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=1B2438&height=240&fontColor=FF9F1C&text=%3E_%20ZOHAIB%20KHAN&fontSize=46&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20ISRO%20SAC%20Researcher%20%C2%B7%20Gen%20AI%20Developer&descColor=4CC9F0&descSize=18&descAlignY=60&animation=fadeIn" alt="Zohaib Khan banner" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=FF9F1C&center=true&vCenter=true&width=820&lines=$+whoami+%E2%86%92+AI%2FML+Engineer+%26+ISRO+SAC+Researcher;$+ship+--scale+%E2%86%92+AgriSmart+for+10%2C000%2B+farmers;$+stack+%E2%86%92+Python+%7C+Django+%7C+LangGraph+%7C+MLOps;$+cat+open-to.txt+%E2%86%92+AI%2FML+%C2%B7+MLOps+%C2%B7+Data+Science+%C2%B7+Python+roles" alt="Typing SVG" />
-
-<br/>
+<img width="100%" src="./assets/header.svg" alt="Zohaib Khan - AI/ML Engineer" />
 
 ![B.E. Computer Engineering](https://img.shields.io/badge/B.E.-Computer_Engineering-FF9F1C?style=flat-square&labelColor=1F2937)
 ![SPPU](https://img.shields.io/badge/SPPU-CGPA_9.40%2F10-FF9F1C?style=flat-square&labelColor=1F2937)
@@ -14,6 +10,10 @@
 <a href="https://www.linkedin.com/in/the-zohaib-khan-b38b00382"><img src="https://img.shields.io/badge/LinkedIn-Connect-FF9F1C?style=for-the-badge&logo=linkedin&logoColor=FF9F1C&labelColor=1F2937" alt="LinkedIn" /></a>
 <a href="mailto:zk05303@gmail.com"><img src="https://img.shields.io/badge/Email-zk05303@gmail.com-FF9F1C?style=for-the-badge&logo=gmail&logoColor=FF9F1C&labelColor=1F2937" alt="Email" /></a>
 <a href="https://github.com/TheZohaibKhan"><img src="https://img.shields.io/badge/GitHub-TheZohaibKhan-FF9F1C?style=for-the-badge&logo=github&logoColor=FF9F1C&labelColor=1F2937" alt="GitHub" /></a>
+
+<br/><br/>
+
+<img width="100%" src="./assets/metrics.svg" alt="Key metrics" />
 
 </div>
 
