@@ -83,22 +83,8 @@ OPEN_TO   =  AI/ML Engineer  |  MLOps / Cloud  |  Data Scientist  |  Python-Djan
 
 ## `> ls ~/projects`
 
+
 <details open>
-<summary><b>AgriSmart &mdash; AI Agriculture Platform (Crop-Prediction)</b></summary>
-<br/>
-
-Django web app for farmers with crop recommendation, fertilizer guidance, plant-disease prediction, and a crop marketplace.
-
-| Aspect | Detail |
-| :-- | :-- |
-| **Stack** | Python &middot; Django &middot; TensorFlow / Keras &middot; NumPy &middot; SQLite &middot; Jupyter |
-| **Scale** | Farmer and vendor roles; 10,000+ farmers and 2,400+ vendors |
-| **Impact** | 95%+ disease-detection accuracy across 38 diseases; 22-crop recommendation engine |
-| **Repo** | [Crop-Prediction](https://github.com/TheZohaibKhan/Crop-Prediction) |
-
-</details>
-
-<details>
 <summary><b>AI Quiz Engine &mdash; AI-Powered Exam Platform</b></summary>
 <br/>
 
@@ -114,19 +100,20 @@ Exam and assessment platform with separate teacher and student workflows, AI que
 </details>
 
 <details>
-<summary><b>StegnoVault &mdash; Secure Steganography System</b></summary>
+<summary><b>AgriSmart &mdash; AI Agriculture Platform (Crop-Prediction)</b></summary>
 <br/>
 
-Web app that hides AES-256 encrypted data inside media files using Genetic Algorithm-optimised LSB steganography.
+Django web app for farmers with crop recommendation, fertilizer guidance, plant-disease prediction, and a crop marketplace.
 
 | Aspect | Detail |
 | :-- | :-- |
-| **Stack** | Java &middot; Spring Boot &middot; Spring Security &middot; MySQL &middot; HTML / CSS / JS |
-| **Scale** | Multi-format media support with user authentication |
-| **Impact** | Average PSNR 51.8 dB, SSIM above 0.9997, 6,339-character payload capacity |
-| **Links** | [Live demo](https://thezohaibkhan.github.io/stegnographyBackendbyNewV004/) &middot; [Repo](https://github.com/TheZohaibKhan/stegnographyBackendbyNewV004) |
+| **Stack** | Python &middot; Django &middot; TensorFlow / Keras &middot; NumPy &middot; SQLite &middot; Jupyter |
+| **Scale** | Farmer and vendor roles; 10,000+ farmers and 2,400+ vendors |
+| **Impact** | 95%+ disease-detection accuracy across 38 diseases; 22-crop recommendation engine |
+| **Repo** | [Crop-Prediction](https://github.com/TheZohaibKhan/Crop-Prediction) |
 
 </details>
+
 
 <details>
 <summary><b>SEHR &mdash; Secure Electronic Health Records on Blockchain</b></summary>
@@ -202,6 +189,22 @@ Multi-agent system that turns a natural-language travel request into a structure
 | **Repo** | [openai-agents-travel-graph](https://github.com/TheZohaibKhan/openai-agents-travel-graph) |
 
 </details>
+
+<details>
+<summary><b>StegnoVault &mdash; Secure Steganography System</b></summary>
+<br/>
+
+Web app that hides AES-256 encrypted data inside media files using Genetic Algorithm-optimised LSB steganography.
+
+| Aspect | Detail |
+| :-- | :-- |
+| **Stack** | Java &middot; Spring Boot &middot; Spring Security &middot; MySQL &middot; HTML / CSS / JS |
+| **Scale** | Multi-format media support with user authentication |
+| **Impact** | Average PSNR 51.8 dB, SSIM above 0.9997, 6,339-character payload capacity |
+| **Links** | [Live demo](https://thezohaibkhan.github.io/stegnographyBackendbyNewV004/) &middot; [Repo](https://github.com/TheZohaibKhan/stegnographyBackendbyNewV004) |
+
+</details>
+
 
 ---
 
