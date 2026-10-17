@@ -7,7 +7,7 @@
 ![Location](https://img.shields.io/badge/Pune-India-FF9F1C?style=flat-square&logo=googlemaps&logoColor=FF9F1C&labelColor=1F2937)
 ![ISRO SAC](https://img.shields.io/badge/ISRO_SAC-Junior_Researcher-FF9F1C?style=flat-square&labelColor=1F2937)
 
-<a href="https://www.linkedin.com/in/the-zohaib-khan-b38b00382"><img src="https://img.shields.io/badge/LinkedIn-Connect-FF9F1C?style=for-the-badge&logo=linkedin&logoColor=FF9F1C&labelColor=1F2937" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/the-zohaib-khan-b38b00382/"><img src="https://img.shields.io/badge/LinkedIn-Connect-FF9F1C?style=for-the-badge&logo=linkedin&logoColor=FF9F1C&labelColor=1F2937" alt="LinkedIn" /></a>
 <a href="mailto:zk05303@gmail.com"><img src="https://img.shields.io/badge/Email-zk05303@gmail.com-FF9F1C?style=for-the-badge&logo=gmail&logoColor=FF9F1C&labelColor=1F2937" alt="Email" /></a>
 <a href="https://github.com/TheZohaibKhan"><img src="https://img.shields.io/badge/GitHub-TheZohaibKhan-FF9F1C?style=for-the-badge&logo=github&logoColor=FF9F1C&labelColor=1F2937" alt="GitHub" /></a>
 
@@ -302,7 +302,7 @@ open_to:
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/the-zohaib-khan-b38b00382"><img src="https://img.shields.io/badge/LinkedIn-Connect-FF9F1C?style=for-the-badge&logo=linkedin&logoColor=FF9F1C&labelColor=1F2937" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/the-zohaib-khan-b38b00382/"><img src="https://img.shields.io/badge/LinkedIn-Connect-FF9F1C?style=for-the-badge&logo=linkedin&logoColor=FF9F1C&labelColor=1F2937" alt="LinkedIn" /></a>
 <a href="mailto:zk05303@gmail.com"><img src="https://img.shields.io/badge/Email-zk05303@gmail.com-FF9F1C?style=for-the-badge&logo=gmail&logoColor=FF9F1C&labelColor=1F2937" alt="Email" /></a>
 <a href="https://github.com/TheZohaibKhan"><img src="https://img.shields.io/badge/GitHub-TheZohaibKhan-FF9F1C?style=for-the-badge&logo=github&logoColor=FF9F1C&labelColor=1F2937" alt="GitHub" /></a>
 
