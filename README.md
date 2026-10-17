@@ -99,23 +99,22 @@ Exam and assessment platform with separate teacher and student workflows, AI que
 
 </details>
 
-<details>
-<summary><b>AgriSmart &mdash; AI Agriculture Platform (Crop-Prediction)</b></summary>
+<details open>
+<summary><b>AI Travel Planner &mdash; Multi-Agent Trip Planner</b></summary>
 <br/>
 
-Django web app for farmers with crop recommendation, fertilizer guidance, plant-disease prediction, and a crop marketplace.
+Multi-agent system that turns a natural-language travel request into a structured plan covering destinations, flights, stays, activities and budget.
 
 | Aspect | Detail |
 | :-- | :-- |
-| **Stack** | Python &middot; Django &middot; TensorFlow / Keras &middot; NumPy &middot; SQLite &middot; Jupyter |
-| **Scale** | Farmer and vendor roles; 10,000+ farmers and 2,400+ vendors |
-| **Impact** | 95%+ disease-detection accuracy across 38 diseases; 22-crop recommendation engine |
-| **Repo** | [Crop-Prediction](https://github.com/TheZohaibKhan/Crop-Prediction) |
+| **Stack** | LangGraph &middot; OpenAI Agents SDK &middot; Gemini &middot; Streamlit &middot; Supabase |
+| **Scale** | Specialised agents for each part of the trip, coordinated by an orchestrator |
+| **Impact** | Budget-aware itineraries with alternatives and day-by-day schedules |
+| **Repo** | [openai-agents-travel-graph](https://github.com/TheZohaibKhan/openai-agents-travel-graph) |
 
 </details>
 
-
-<details>
+<details open>
 <summary><b>SEHR &mdash; Secure Electronic Health Records on Blockchain</b></summary>
 <br/>
 
@@ -142,6 +141,21 @@ Interactive dashboard for uploading energy datasets, comparing prediction approa
 | **Scale** | CSV / Excel upload with in-browser processing |
 | **Impact** | Compares several models and reports MAE, RMSE and R&sup2; with switchable charts |
 | **Links** | [Demo](https://thezohaibkhan.github.io/renewable-energy-dashboard/) &middot; [Repo](https://github.com/TheZohaibKhan/renewable-energy-dashboard) |
+
+</details>
+
+<details>
+<summary><b>AgriSmart &mdash; AI Agriculture Platform (Crop-Prediction)</b></summary>
+<br/>
+
+Django web app for farmers with crop recommendation, fertilizer guidance, plant-disease prediction, and a crop marketplace.
+
+| Aspect | Detail |
+| :-- | :-- |
+| **Stack** | Python &middot; Django &middot; TensorFlow / Keras &middot; NumPy &middot; SQLite &middot; Jupyter |
+| **Scale** | Farmer and vendor roles; 10,000+ farmers and 2,400+ vendors |
+| **Impact** | 95%+ disease-detection accuracy across 38 diseases; 22-crop recommendation engine |
+| **Repo** | [Crop-Prediction](https://github.com/TheZohaibKhan/Crop-Prediction) |
 
 </details>
 
@@ -175,20 +189,6 @@ GitHub Action that reads a PR's code changes, finds the docs that need updating,
 
 </details>
 
-<details>
-<summary><b>AI Travel Planner &mdash; Multi-Agent Trip Planner</b></summary>
-<br/>
-
-Multi-agent system that turns a natural-language travel request into a structured plan covering destinations, flights, stays, activities and budget.
-
-| Aspect | Detail |
-| :-- | :-- |
-| **Stack** | LangGraph &middot; OpenAI Agents SDK &middot; Gemini &middot; Streamlit &middot; Supabase |
-| **Scale** | Specialised agents for each part of the trip, coordinated by an orchestrator |
-| **Impact** | Budget-aware itineraries with alternatives and day-by-day schedules |
-| **Repo** | [openai-agents-travel-graph](https://github.com/TheZohaibKhan/openai-agents-travel-graph) |
-
-</details>
 
 <details>
 <summary><b>StegnoVault &mdash; Secure Steganography System</b></summary>
