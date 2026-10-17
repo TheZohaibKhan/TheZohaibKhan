@@ -91,7 +91,6 @@ OPEN_TO   =  AI/ML Engineer  |  MLOps / Cloud  |  Data Scientist  |  Python-Djan
 
 ## `> ls ~/projects`
 
-
 <details open>
 <summary><b>AI Quiz Engine &mdash; AI-Powered Exam Platform</b></summary>
 <br/>
@@ -106,6 +105,7 @@ Exam and assessment platform with separate teacher and student workflows, AI que
 | **Links** | [Live demo](https://ai-quiz-engine-b049.onrender.com) &middot; [Repo](https://github.com/TheZohaibKhan/AI-Quiz-Engine) |
 
 </details>
+
 <details open>
 <summary><b>AI Travel Planner &mdash; Multi-Agent Trip Planner</b></summary>
 <br/>
@@ -180,6 +180,7 @@ GitHub Action that reads a PR's code changes, finds the docs that need updating,
 | **Repo** | [AI-Documentation-Assistant](https://github.com/TheZohaibKhan/AI-Documentation-Assistant) |
 
 </details>
+
 <details>
 <summary><b>AgriSmart &mdash; AI Agriculture Platform (Crop-Prediction)</b></summary>
 <br/>
@@ -194,6 +195,7 @@ Django web app for farmers with crop recommendation, fertilizer guidance, plant-
 | **Repo** | [Crop-Prediction](https://github.com/TheZohaibKhan/Crop-Prediction) |
 
 </details>
+
 <details>
 <summary><b>StegnoVault &mdash; Secure Steganography System</b></summary>
 <br/>
@@ -241,19 +243,27 @@ Web app that hides AES-256 encrypted data inside media files using Genetic Algor
 
 ## `> cat achievements.md`
 
-<div align="center">
-
-| 🏆 Achievement | Detail |
+| Area | Achievement |
 | :-- | :-- |
-| **ISRO SAC Research** | RMSE 0.229°C, about 80% better than the ATBD baseline |
-| **AgriSmart** | Serving 10,000+ farmers and 2,400+ vendors |
+| **Research** | Junior Researcher at ISRO SAC: 6-model satellite ML ensemble, RMSE 0.229°C, about 80% better than the ATBD baseline |
+| **Gen AI & Agents** | Built LLM and multi-agent projects, including an AI Travel Planner and an AI Documentation Assistant GitHub Action |
+| **Full-Stack AI** | Shipped AI Quiz Engine (Laravel 12 + pgvector) live on Render with automated tests, and AgriSmart for 10,000+ farmers |
+| **Security** | StegnoVault: AES-256 + Genetic Algorithm steganography with average PSNR 51.8 dB and SSIM above 0.9997 |
+| **Web3** | SEHR: Ethereum smart-contract health-records demo with off-chain IPFS file storage |
 | **Academics** | CGPA 9.40 / 10, B.E. Computer Engineering, SPPU |
 | **Leadership** | General Secretary, Student Council, SPPU (Board of Student Development) |
 | **Community** | NSS College Head, 500+ volunteer hours; led inter-college hackathons and tech fests |
 
-</div>
+---
 
-**Certifications:** Junior Researcher Internship (ISRO SAC, Dec 2025) · Mastering ChatGPT & Generative AI (Udemy, Jun 2025) · Python, Django & HTML5 Stack (Udemy, Apr 2025) · Microsoft Excel, Beginner to Advanced (Udemy, Feb 2025)
+## `> cat certifications.md`
+
+| Certification | Issuer | Date |
+| :-- | :-- | :--: |
+| Junior Researcher Internship | ISRO SAC, Ahmedabad | Dec 2025 |
+| Mastering ChatGPT & Generative AI | Udemy | Jun 2025 |
+| Python, Django Framework & HTML5 Stack | Udemy | Apr 2025 |
+| Microsoft Excel: Beginner to Advanced | Udemy | Feb 2025 |
 
 <div align="center">
 
