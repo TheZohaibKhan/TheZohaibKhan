@@ -1,21 +1,19 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0B0F1A&fontColor=FF9F1C&text=%3E_%20ZOHAIB%20KHAN&fontSize=44&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20ISRO%20SAC%20Researcher%20%C2%B7%20Gen%20AI%20Developer&descColor=4CC9F0&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=1B2438&height=240&fontColor=FF9F1C&text=%3E_%20ZOHAIB%20KHAN&fontSize=46&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20ISRO%20SAC%20Researcher%20%C2%B7%20Gen%20AI%20Developer&descColor=4CC9F0&descSize=18&descAlignY=60&animation=fadeIn" alt="Zohaib Khan banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=FF9F1C&center=true&vCenter=true&width=820&lines=$+whoami+%E2%86%92+AI%2FML+Engineer+%26+ISRO+SAC+Researcher;$+ship+--scale+%E2%86%92+AgriSmart+for+10%2C000%2B+farmers;$+stack+%E2%86%92+Python+%7C+Django+%7C+LangGraph+%7C+MLOps;$+cat+open-to.txt+%E2%86%92+AI%2FML+%C2%B7+MLOps+%C2%B7+Data+Science+%C2%B7+Python+roles" alt="Typing SVG" />
 
 <br/>
 
-![B.E. Computer Engineering](https://img.shields.io/badge/B.E.-Computer_Engineering-FF9F1C?style=flat-square&labelColor=0B0F1A)
-![SPPU](https://img.shields.io/badge/SPPU-CGPA_9.40%2F10-FF9F1C?style=flat-square&labelColor=0B0F1A)
-![Location](https://img.shields.io/badge/Pune-India-FF9F1C?style=flat-square&logo=googlemaps&logoColor=FF9F1C&labelColor=0B0F1A)
-![ISRO SAC](https://img.shields.io/badge/ISRO_SAC-Junior_Researcher-FF9F1C?style=flat-square&labelColor=0B0F1A)
+![B.E. Computer Engineering](https://img.shields.io/badge/B.E.-Computer_Engineering-FF9F1C?style=flat-square&labelColor=1F2937)
+![SPPU](https://img.shields.io/badge/SPPU-CGPA_9.40%2F10-FF9F1C?style=flat-square&labelColor=1F2937)
+![Location](https://img.shields.io/badge/Pune-India-FF9F1C?style=flat-square&logo=googlemaps&logoColor=FF9F1C&labelColor=1F2937)
+![ISRO SAC](https://img.shields.io/badge/ISRO_SAC-Junior_Researcher-FF9F1C?style=flat-square&labelColor=1F2937)
 
-<a href="https://www.linkedin.com/in/the-zohaib-khan-b38b00382"><img src="https://img.shields.io/badge/LinkedIn-Connect-FF9F1C?style=for-the-badge&logo=linkedin&logoColor=0B0F1A&labelColor=0B0F1A" alt="LinkedIn" /></a>
-<a href="mailto:zk05303@gmail.com"><img src="https://img.shields.io/badge/Email-zk05303@gmail.com-FF9F1C?style=for-the-badge&logo=gmail&logoColor=0B0F1A&labelColor=0B0F1A" alt="Email" /></a>
-<a href="https://github.com/TheZohaibKhan"><img src="https://img.shields.io/badge/GitHub-TheZohaibKhan-FF9F1C?style=for-the-badge&logo=github&logoColor=0B0F1A&labelColor=0B0F1A" alt="GitHub" /></a>
-
-<img src="https://komarev.com/ghpvc/?username=TheZohaibKhan&label=PROFILE+VIEWS&color=FF9F1C&style=flat-square&labelColor=0B0F1A" alt="Profile views" />
+<a href="https://www.linkedin.com/in/the-zohaib-khan-b38b00382"><img src="https://img.shields.io/badge/LinkedIn-Connect-FF9F1C?style=for-the-badge&logo=linkedin&logoColor=FF9F1C&labelColor=1F2937" alt="LinkedIn" /></a>
+<a href="mailto:zk05303@gmail.com"><img src="https://img.shields.io/badge/Email-zk05303@gmail.com-FF9F1C?style=for-the-badge&logo=gmail&logoColor=FF9F1C&labelColor=1F2937" alt="Email" /></a>
+<a href="https://github.com/TheZohaibKhan"><img src="https://img.shields.io/badge/GitHub-TheZohaibKhan-FF9F1C?style=for-the-badge&logo=github&logoColor=FF9F1C&labelColor=1F2937" alt="GitHub" /></a>
 
 </div>
 
@@ -55,17 +53,17 @@ OPEN_TO   =  AI/ML Engineer  |  MLOps / Cloud  |  Data Scientist  |  Python-Djan
 
 <br/>
 
-![LangGraph](https://img.shields.io/badge/LangGraph-FF9F1C?style=flat-square&labelColor=0B0F1A)
-![RAG](https://img.shields.io/badge/RAG-FF9F1C?style=flat-square&labelColor=0B0F1A)
-![Claude API](https://img.shields.io/badge/Claude_API-FF9F1C?style=flat-square&labelColor=0B0F1A)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FF9F1C?style=flat-square&labelColor=0B0F1A)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF9F1C?style=flat-square&labelColor=0B0F1A)
-![Optuna HPO](https://img.shields.io/badge/Optuna_HPO-FF9F1C?style=flat-square&labelColor=0B0F1A)
-![MLflow](https://img.shields.io/badge/MLflow-FF9F1C?style=flat-square&labelColor=0B0F1A)
-![PySpark](https://img.shields.io/badge/PySpark-FF9F1C?style=flat-square&labelColor=0B0F1A)
-![pgvector](https://img.shields.io/badge/pgvector-FF9F1C?style=flat-square&labelColor=0B0F1A)
-![Pandas](https://img.shields.io/badge/Pandas-FF9F1C?style=flat-square&labelColor=0B0F1A)
-![NumPy](https://img.shields.io/badge/NumPy-FF9F1C?style=flat-square&labelColor=0B0F1A)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF9F1C?style=flat-square&labelColor=1F2937)
+![RAG](https://img.shields.io/badge/RAG-FF9F1C?style=flat-square&labelColor=1F2937)
+![Claude API](https://img.shields.io/badge/Claude_API-FF9F1C?style=flat-square&labelColor=1F2937)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FF9F1C?style=flat-square&labelColor=1F2937)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF9F1C?style=flat-square&labelColor=1F2937)
+![Optuna HPO](https://img.shields.io/badge/Optuna_HPO-FF9F1C?style=flat-square&labelColor=1F2937)
+![MLflow](https://img.shields.io/badge/MLflow-FF9F1C?style=flat-square&labelColor=1F2937)
+![PySpark](https://img.shields.io/badge/PySpark-FF9F1C?style=flat-square&labelColor=1F2937)
+![pgvector](https://img.shields.io/badge/pgvector-FF9F1C?style=flat-square&labelColor=1F2937)
+![Pandas](https://img.shields.io/badge/Pandas-FF9F1C?style=flat-square&labelColor=1F2937)
+![NumPy](https://img.shields.io/badge/NumPy-FF9F1C?style=flat-square&labelColor=1F2937)
 
 </div>
 
@@ -252,7 +250,7 @@ Web app that hides AES-256 encrypted data inside media files using Genetic Algor
 
 <div align="center">
 
-![SPPU](https://img.shields.io/badge/B.E._Computer_Engineering-SPPU_2022--2026-FF9F1C?style=for-the-badge&labelColor=0B0F1A)
+![SPPU](https://img.shields.io/badge/B.E._Computer_Engineering-SPPU_2022--2026-FF9F1C?style=for-the-badge&labelColor=1F2937)
 
 </div>
 
@@ -268,8 +266,6 @@ Web app that hides AES-256 encrypted data inside media files using Genetic Algor
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheZohaibKhan&layout=compact&hide_border=true&title_color=FF9F1C&text_color=E8EEF7&bg_color=0B0F1A" alt="Top languages" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TheZohaibKhan&theme=gruvbox&utcOffset=5.5" alt="Productive time" />
 </p>
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheZohaibKhan&theme=gruvbox" alt="Profile details" />
 
 <img src="https://raw.githubusercontent.com/TheZohaibKhan/TheZohaibKhan/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" width="100%" />
 
@@ -302,9 +298,9 @@ open_to:
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/the-zohaib-khan-b38b00382"><img src="https://img.shields.io/badge/LinkedIn-FF9F1C?style=for-the-badge&logo=linkedin&logoColor=0B0F1A&labelColor=0B0F1A" alt="LinkedIn" /></a>
-<a href="mailto:zk05303@gmail.com"><img src="https://img.shields.io/badge/Email-FF9F1C?style=for-the-badge&logo=gmail&logoColor=0B0F1A&labelColor=0B0F1A" alt="Email" /></a>
-<a href="https://github.com/TheZohaibKhan"><img src="https://img.shields.io/badge/GitHub-FF9F1C?style=for-the-badge&logo=github&logoColor=0B0F1A&labelColor=0B0F1A" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/the-zohaib-khan-b38b00382"><img src="https://img.shields.io/badge/LinkedIn-FF9F1C?style=for-the-badge&logo=linkedin&logoColor=0B0F1A&labelColor=1F2937" alt="LinkedIn" /></a>
+<a href="mailto:zk05303@gmail.com"><img src="https://img.shields.io/badge/Email-FF9F1C?style=for-the-badge&logo=gmail&logoColor=0B0F1A&labelColor=1F2937" alt="Email" /></a>
+<a href="https://github.com/TheZohaibKhan"><img src="https://img.shields.io/badge/GitHub-FF9F1C?style=for-the-badge&logo=github&logoColor=0B0F1A&labelColor=1F2937" alt="GitHub" /></a>
 
 <br/><br/>
 
