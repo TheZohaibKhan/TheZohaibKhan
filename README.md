@@ -45,7 +45,7 @@ OPEN_TO   =  AI/ML Engineer  |  MLOps / Cloud  |  Data Scientist  |  Python-Djan
 <img src="https://skillicons.dev/icons?i=py,bash,java,php,js,ts,django,fastapi,laravel,spring&theme=dark" /><br/><br/>
 
 **ML, Deep Learning & Gen AI**<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,numpy&theme=dark" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" /><br/><br/>
 
 **Data, Cloud & DevOps**<br/>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,kafka,docker,aws,gcp,terraform,githubactions,grafana,nginx,linux,git&theme=dark" /><br/><br/>
@@ -58,12 +58,14 @@ OPEN_TO   =  AI/ML Engineer  |  MLOps / Cloud  |  Data Scientist  |  Python-Djan
 ![LangGraph](https://img.shields.io/badge/LangGraph-FF9F1C?style=flat-square&labelColor=0B0F1A)
 ![RAG](https://img.shields.io/badge/RAG-FF9F1C?style=flat-square&labelColor=0B0F1A)
 ![Claude API](https://img.shields.io/badge/Claude_API-FF9F1C?style=flat-square&labelColor=0B0F1A)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FF9F1C?style=flat-square&logo=huggingface&logoColor=FF9F1C&labelColor=0B0F1A)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FF9F1C?style=flat-square&labelColor=0B0F1A)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF9F1C?style=flat-square&labelColor=0B0F1A)
-![Optuna](https://img.shields.io/badge/Optuna_HPO-FF9F1C?style=flat-square&labelColor=0B0F1A)
-![MLflow](https://img.shields.io/badge/MLflow-FF9F1C?style=flat-square&logo=mlflow&logoColor=FF9F1C&labelColor=0B0F1A)
-![PySpark](https://img.shields.io/badge/PySpark-FF9F1C?style=flat-square&logo=apachespark&logoColor=FF9F1C&labelColor=0B0F1A)
+![Optuna HPO](https://img.shields.io/badge/Optuna_HPO-FF9F1C?style=flat-square&labelColor=0B0F1A)
+![MLflow](https://img.shields.io/badge/MLflow-FF9F1C?style=flat-square&labelColor=0B0F1A)
+![PySpark](https://img.shields.io/badge/PySpark-FF9F1C?style=flat-square&labelColor=0B0F1A)
 ![pgvector](https://img.shields.io/badge/pgvector-FF9F1C?style=flat-square&labelColor=0B0F1A)
+![Pandas](https://img.shields.io/badge/Pandas-FF9F1C?style=flat-square&labelColor=0B0F1A)
+![NumPy](https://img.shields.io/badge/NumPy-FF9F1C?style=flat-square&labelColor=0B0F1A)
 
 </div>
 
@@ -84,7 +86,7 @@ OPEN_TO   =  AI/ML Engineer  |  MLOps / Cloud  |  Data Scientist  |  Python-Djan
 ## `> ls ~/projects`
 
 <details open>
-<summary><b>&#9654; INSAT-3DS SST Retrieval &mdash; ML pipeline at ISRO SAC</b></summary>
+<summary><b>INSAT-3DS SST Retrieval &mdash; ML pipeline at ISRO SAC</b></summary>
 <br/>
 
 End-to-end satellite ML system that retrieves sea surface temperature from INSAT-3DS data, covering ingestion, cloud masking, feature engineering, optimisation and ensembling.
@@ -99,7 +101,7 @@ End-to-end satellite ML system that retrieves sea surface temperature from INSAT
 </details>
 
 <details>
-<summary><b>&#9654; AgriSmart &mdash; AI Agriculture SaaS</b></summary>
+<summary><b>AgriSmart &mdash; AI Agriculture SaaS</b></summary>
 <br/>
 
 Full-stack platform for farmers with plant disease detection, crop and fertilizer recommendations, and a zero-commission marketplace.
@@ -114,7 +116,7 @@ Full-stack platform for farmers with plant disease detection, crop and fertilize
 </details>
 
 <details>
-<summary><b>&#9654; FakeNewsRadar &mdash; Multi-Agent LLM Fact-Checker</b></summary>
+<summary><b>FakeNewsRadar &mdash; Multi-Agent LLM Fact-Checker</b></summary>
 <br/>
 
 Multi-agent system for automated news fact-checking, credibility scoring and correction-report generation.
@@ -129,7 +131,7 @@ Multi-agent system for automated news fact-checking, credibility scoring and cor
 </details>
 
 <details>
-<summary><b>&#9654; DisasterEye &mdash; Satellite Disaster Detection</b></summary>
+<summary><b>DisasterEye &mdash; Satellite Disaster Detection</b></summary>
 <br/>
 
 Cloud-native platform that detects floods and wildfires from satellite imagery and sends real-time alerts.
@@ -144,7 +146,7 @@ Cloud-native platform that detects floods and wildfires from satellite imagery a
 </details>
 
 <details>
-<summary><b>&#9654; PowerGrid Anomaly Sentinel &mdash; Kafka + ML Streaming</b></summary>
+<summary><b>PowerGrid Anomaly Sentinel &mdash; Kafka + ML Streaming</b></summary>
 <br/>
 
 Real-time IoT analytics for detecting electricity theft and equipment failures.
@@ -159,7 +161,7 @@ Real-time IoT analytics for detecting electricity theft and equipment failures.
 </details>
 
 <details>
-<summary><b>&#9654; AI Quiz Engine &mdash; AI-Powered Exam Platform</b></summary>
+<summary><b>AI Quiz Engine &mdash; AI-Powered Exam Platform</b></summary>
 <br/>
 
 Exam and assessment platform with separate teacher and student workflows, AI question generation, answer evaluation and learning hints.
@@ -174,7 +176,7 @@ Exam and assessment platform with separate teacher and student workflows, AI que
 </details>
 
 <details>
-<summary><b>&#9654; StegnoVault &mdash; Secure Steganography System</b></summary>
+<summary><b>StegnoVault &mdash; Secure Steganography System</b></summary>
 <br/>
 
 Web app that hides AES-256 encrypted data inside media files using Genetic Algorithm-optimised LSB steganography.
@@ -189,7 +191,7 @@ Web app that hides AES-256 encrypted data inside media files using Genetic Algor
 </details>
 
 <details>
-<summary><b>&#9654; More repositories</b></summary>
+<summary><b>More repositories</b></summary>
 <br/>
 
 | Project | Stack | Link |
@@ -260,28 +262,14 @@ Web app that hides AES-256 encrypted data inside media files using Genetic Algor
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=TheZohaibKhan&show_icons=true&hide_border=true&title_color=FF9F1C&icon_color=4CC9F0&text_color=E8EEF7&bg_color=0B0F1A" />
-<img height="165" src="https://streak-stats.demolab.com/?user=TheZohaibKhan&hide_border=true&background=0B0F1A&stroke=FF9F1C&ring=FF9F1C&fire=FF9F1C&currStreakLabel=FF9F1C&currStreakNum=E8EEF7&sideNums=E8EEF7&sideLabels=4CC9F0&dates=8A94A6" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheZohaibKhan&layout=compact&hide_border=true&title_color=FF9F1C&text_color=E8EEF7&bg_color=0B0F1A" />
+<img height="170" src="https://streak-stats.demolab.com/?user=TheZohaibKhan&hide_border=true&background=0B0F1A&stroke=FF9F1C&ring=FF9F1C&fire=FF9F1C&currStreakLabel=FF9F1C&currStreakNum=E8EEF7&sideNums=E8EEF7&sideLabels=4CC9F0&dates=8A94A6" alt="Streak" />
 
-<br/><br/>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheZohaibKhan&layout=compact&hide_border=true&title_color=FF9F1C&text_color=E8EEF7&bg_color=0B0F1A" alt="Top languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TheZohaibKhan&theme=gruvbox&utcOffset=5.5" alt="Productive time" />
+</p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=TheZohaibKhan&theme=gruvbox&no-frame=true&no-bg=true&column=7" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TheZohaibKhan&bg_color=0B0F1A&color=FF9F1C&line=FF9F1C&point=E8EEF7&area_color=FF9F1C&area=true&hide_border=true" width="100%" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheZohaibKhan&theme=gruvbox" width="100%" />
-
-<img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TheZohaibKhan&theme=gruvbox" />
-<img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TheZohaibKhan&theme=gruvbox" />
-<img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheZohaibKhan&theme=gruvbox" />
-<img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TheZohaibKhan&theme=gruvbox&utcOffset=5.5" />
-
-<br/><br/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheZohaibKhan&theme=gruvbox" alt="Profile details" />
 
 <img src="https://raw.githubusercontent.com/TheZohaibKhan/TheZohaibKhan/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" width="100%" />
 
@@ -322,6 +310,6 @@ open_to:
 
 *"From satellite pixels to farmers' fields, I turn data into decisions that ship."*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0B0F1A&height=120&section=footer&fontColor=FF9F1C" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF9F1C&height=90&section=footer" />
 
 </div>
