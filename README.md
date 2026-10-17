@@ -91,22 +91,8 @@ OPEN_TO   =  AI/ML Engineer  |  MLOps / Cloud  |  Data Scientist  |  Python-Djan
 
 ## `> ls ~/projects`
 
+
 <details open>
-<summary><b>AgriSmart &mdash; AI Agriculture Platform (Crop-Prediction)</b></summary>
-<br/>
-
-Django web app for farmers with crop recommendation, fertilizer guidance, plant-disease prediction, and a crop marketplace.
-
-| Aspect | Detail |
-| :-- | :-- |
-| **Stack** | Python &middot; Django &middot; TensorFlow / Keras &middot; NumPy &middot; SQLite &middot; Jupyter |
-| **Scale** | Farmer and vendor roles; 10,000+ farmers and 2,400+ vendors |
-| **Impact** | 95%+ disease-detection accuracy across 38 diseases; 22-crop recommendation engine |
-| **Repo** | [Crop-Prediction](https://github.com/TheZohaibKhan/Crop-Prediction) |
-
-</details>
-
-<details>
 <summary><b>AI Quiz Engine &mdash; AI-Powered Exam Platform</b></summary>
 <br/>
 
@@ -120,23 +106,22 @@ Exam and assessment platform with separate teacher and student workflows, AI que
 | **Links** | [Live demo](https://ai-quiz-engine-b049.onrender.com) &middot; [Repo](https://github.com/TheZohaibKhan/AI-Quiz-Engine) |
 
 </details>
-
-<details>
-<summary><b>StegnoVault &mdash; Secure Steganography System</b></summary>
+<details open>
+<summary><b>AI Travel Planner &mdash; Multi-Agent Trip Planner</b></summary>
 <br/>
 
-Web app that hides AES-256 encrypted data inside media files using Genetic Algorithm-optimised LSB steganography.
+Multi-agent system that turns a natural-language travel request into a structured plan covering destinations, flights, stays, activities and budget.
 
 | Aspect | Detail |
 | :-- | :-- |
-| **Stack** | Java &middot; Spring Boot &middot; Spring Security &middot; MySQL &middot; HTML / CSS / JS |
-| **Scale** | Multi-format media support with user authentication |
-| **Impact** | Average PSNR 51.8 dB, SSIM above 0.9997, 6,339-character payload capacity |
-| **Links** | [Live demo](https://thezohaibkhan.github.io/stegnographyBackendbyNewV004/) &middot; [Repo](https://github.com/TheZohaibKhan/stegnographyBackendbyNewV004) |
+| **Stack** | LangGraph &middot; OpenAI Agents SDK &middot; Gemini &middot; Streamlit &middot; Supabase |
+| **Scale** | Specialised agents for each part of the trip, coordinated by an orchestrator |
+| **Impact** | Budget-aware itineraries with alternatives and day-by-day schedules |
+| **Repo** | [openai-agents-travel-graph](https://github.com/TheZohaibKhan/openai-agents-travel-graph) |
 
 </details>
 
-<details>
+<details open>
 <summary><b>SEHR &mdash; Secure Electronic Health Records on Blockchain</b></summary>
 <br/>
 
@@ -195,19 +180,32 @@ GitHub Action that reads a PR's code changes, finds the docs that need updating,
 | **Repo** | [AI-Documentation-Assistant](https://github.com/TheZohaibKhan/AI-Documentation-Assistant) |
 
 </details>
-
 <details>
-<summary><b>AI Travel Planner &mdash; Multi-Agent Trip Planner</b></summary>
+<summary><b>AgriSmart &mdash; AI Agriculture Platform (Crop-Prediction)</b></summary>
 <br/>
 
-Multi-agent system that turns a natural-language travel request into a structured plan covering destinations, flights, stays, activities and budget.
+Django web app for farmers with crop recommendation, fertilizer guidance, plant-disease prediction, and a crop marketplace.
 
 | Aspect | Detail |
 | :-- | :-- |
-| **Stack** | LangGraph &middot; OpenAI Agents SDK &middot; Gemini &middot; Streamlit &middot; Supabase |
-| **Scale** | Specialised agents for each part of the trip, coordinated by an orchestrator |
-| **Impact** | Budget-aware itineraries with alternatives and day-by-day schedules |
-| **Repo** | [openai-agents-travel-graph](https://github.com/TheZohaibKhan/openai-agents-travel-graph) |
+| **Stack** | Python &middot; Django &middot; TensorFlow / Keras &middot; NumPy &middot; SQLite &middot; Jupyter |
+| **Scale** | Farmer and vendor roles; 10,000+ farmers and 2,400+ vendors |
+| **Impact** | 95%+ disease-detection accuracy across 38 diseases; 22-crop recommendation engine |
+| **Repo** | [Crop-Prediction](https://github.com/TheZohaibKhan/Crop-Prediction) |
+
+</details>
+<details>
+<summary><b>StegnoVault &mdash; Secure Steganography System</b></summary>
+<br/>
+
+Web app that hides AES-256 encrypted data inside media files using Genetic Algorithm-optimised LSB steganography.
+
+| Aspect | Detail |
+| :-- | :-- |
+| **Stack** | Java &middot; Spring Boot &middot; Spring Security &middot; MySQL &middot; HTML / CSS / JS |
+| **Scale** | Multi-format media support with user authentication |
+| **Impact** | Average PSNR 51.8 dB, SSIM above 0.9997, 6,339-character payload capacity |
+| **Links** | [Live demo](https://thezohaibkhan.github.io/stegnographyBackendbyNewV004/) &middot; [Repo](https://github.com/TheZohaibKhan/stegnographyBackendbyNewV004) |
 
 </details>
 
