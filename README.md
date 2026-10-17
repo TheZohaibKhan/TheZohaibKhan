@@ -21,14 +21,22 @@
 
 ## `> whoami`
 
-I build ML systems that ship, not just models that score well. At **ISRO's Space Applications Centre** I engineered a 6-model satellite ensemble on **172,672 records** that reached **RMSE 0.229°C**, roughly **80% better than ISRO's 30-year physics baseline**. Outside the lab I built **AgriSmart**, an AI agriculture platform serving **10,000+ farmers**.
+I'm **Zohaib Khan**, a Computer Engineering student from Pune who builds AI products end to end, from the model to the app people actually use. I like problems where machine learning meets a real user, and I've worked across the stack to get there:
+
+- **Applied ML & research:** satellite sea-surface-temperature retrieval at ISRO SAC, with a 6-model ensemble on 172K+ records
+- **LLM & multi-agent systems:** an AI travel planner and a GitHub Action that keeps documentation in sync with code
+- **AI for real users:** AgriSmart, with crop recommendation and plant-disease detection for farmers, and AI Quiz Engine for teachers and students
+- **Voice & data apps:** AIParentBot (emotion-aware voice assistant) and a renewable-energy analytics dashboard
+- **Security & blockchain:** StegnoVault (AES-256 + steganography) and SEHR (health records on Ethereum)
+
+Outside code, I served as General Secretary of the SPPU Student Council and led NSS volunteer work.
 
 ```bash
 $ cat .profile
 ROLE      =  AI / ML Engineer  |  ML Researcher  |  Gen AI Developer
 EDU       =  B.E. Computer Engineering, SPPU  (CGPA 9.40 / 10)
 EXP       =  ISRO SAC Research Intern + 3 industry internships
-DOMAIN    =  Satellite ML  |  AgriTech  |  LLM Agents  |  MLOps
+DOMAIN    =  Applied ML  |  LLM Agents  |  AgriTech  |  Full-Stack  |  Security
 STACK     =  Python  |  TensorFlow  |  PyTorch  |  LangGraph  |  Django  |  AWS
 OPEN_TO   =  AI/ML Engineer  |  MLOps / Cloud  |  Data Scientist  |  Python-Django roles
 ```
@@ -83,8 +91,22 @@ OPEN_TO   =  AI/ML Engineer  |  MLOps / Cloud  |  Data Scientist  |  Python-Djan
 
 ## `> ls ~/projects`
 
-
 <details open>
+<summary><b>AgriSmart &mdash; AI Agriculture Platform (Crop-Prediction)</b></summary>
+<br/>
+
+Django web app for farmers with crop recommendation, fertilizer guidance, plant-disease prediction, and a crop marketplace.
+
+| Aspect | Detail |
+| :-- | :-- |
+| **Stack** | Python &middot; Django &middot; TensorFlow / Keras &middot; NumPy &middot; SQLite &middot; Jupyter |
+| **Scale** | Farmer and vendor roles; 10,000+ farmers and 2,400+ vendors |
+| **Impact** | 95%+ disease-detection accuracy across 38 diseases; 22-crop recommendation engine |
+| **Repo** | [Crop-Prediction](https://github.com/TheZohaibKhan/Crop-Prediction) |
+
+</details>
+
+<details>
 <summary><b>AI Quiz Engine &mdash; AI-Powered Exam Platform</b></summary>
 <br/>
 
@@ -99,22 +121,22 @@ Exam and assessment platform with separate teacher and student workflows, AI que
 
 </details>
 
-<details open>
-<summary><b>AI Travel Planner &mdash; Multi-Agent Trip Planner</b></summary>
+<details>
+<summary><b>StegnoVault &mdash; Secure Steganography System</b></summary>
 <br/>
 
-Multi-agent system that turns a natural-language travel request into a structured plan covering destinations, flights, stays, activities and budget.
+Web app that hides AES-256 encrypted data inside media files using Genetic Algorithm-optimised LSB steganography.
 
 | Aspect | Detail |
 | :-- | :-- |
-| **Stack** | LangGraph &middot; OpenAI Agents SDK &middot; Gemini &middot; Streamlit &middot; Supabase |
-| **Scale** | Specialised agents for each part of the trip, coordinated by an orchestrator |
-| **Impact** | Budget-aware itineraries with alternatives and day-by-day schedules |
-| **Repo** | [openai-agents-travel-graph](https://github.com/TheZohaibKhan/openai-agents-travel-graph) |
+| **Stack** | Java &middot; Spring Boot &middot; Spring Security &middot; MySQL &middot; HTML / CSS / JS |
+| **Scale** | Multi-format media support with user authentication |
+| **Impact** | Average PSNR 51.8 dB, SSIM above 0.9997, 6,339-character payload capacity |
+| **Links** | [Live demo](https://thezohaibkhan.github.io/stegnographyBackendbyNewV004/) &middot; [Repo](https://github.com/TheZohaibKhan/stegnographyBackendbyNewV004) |
 
 </details>
 
-<details open>
+<details>
 <summary><b>SEHR &mdash; Secure Electronic Health Records on Blockchain</b></summary>
 <br/>
 
@@ -141,21 +163,6 @@ Interactive dashboard for uploading energy datasets, comparing prediction approa
 | **Scale** | CSV / Excel upload with in-browser processing |
 | **Impact** | Compares several models and reports MAE, RMSE and R&sup2; with switchable charts |
 | **Links** | [Demo](https://thezohaibkhan.github.io/renewable-energy-dashboard/) &middot; [Repo](https://github.com/TheZohaibKhan/renewable-energy-dashboard) |
-
-</details>
-
-<details>
-<summary><b>AgriSmart &mdash; AI Agriculture Platform (Crop-Prediction)</b></summary>
-<br/>
-
-Django web app for farmers with crop recommendation, fertilizer guidance, plant-disease prediction, and a crop marketplace.
-
-| Aspect | Detail |
-| :-- | :-- |
-| **Stack** | Python &middot; Django &middot; TensorFlow / Keras &middot; NumPy &middot; SQLite &middot; Jupyter |
-| **Scale** | Farmer and vendor roles; 10,000+ farmers and 2,400+ vendors |
-| **Impact** | 95%+ disease-detection accuracy across 38 diseases; 22-crop recommendation engine |
-| **Repo** | [Crop-Prediction](https://github.com/TheZohaibKhan/Crop-Prediction) |
 
 </details>
 
@@ -189,22 +196,20 @@ GitHub Action that reads a PR's code changes, finds the docs that need updating,
 
 </details>
 
-
 <details>
-<summary><b>StegnoVault &mdash; Secure Steganography System</b></summary>
+<summary><b>AI Travel Planner &mdash; Multi-Agent Trip Planner</b></summary>
 <br/>
 
-Web app that hides AES-256 encrypted data inside media files using Genetic Algorithm-optimised LSB steganography.
+Multi-agent system that turns a natural-language travel request into a structured plan covering destinations, flights, stays, activities and budget.
 
 | Aspect | Detail |
 | :-- | :-- |
-| **Stack** | Java &middot; Spring Boot &middot; Spring Security &middot; MySQL &middot; HTML / CSS / JS |
-| **Scale** | Multi-format media support with user authentication |
-| **Impact** | Average PSNR 51.8 dB, SSIM above 0.9997, 6,339-character payload capacity |
-| **Links** | [Live demo](https://thezohaibkhan.github.io/stegnographyBackendbyNewV004/) &middot; [Repo](https://github.com/TheZohaibKhan/stegnographyBackendbyNewV004) |
+| **Stack** | LangGraph &middot; OpenAI Agents SDK &middot; Gemini &middot; Streamlit &middot; Supabase |
+| **Scale** | Specialised agents for each part of the trip, coordinated by an orchestrator |
+| **Impact** | Budget-aware itineraries with alternatives and day-by-day schedules |
+| **Repo** | [openai-agents-travel-graph](https://github.com/TheZohaibKhan/openai-agents-travel-graph) |
 
 </details>
-
 
 ---
 
