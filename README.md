@@ -102,7 +102,7 @@ Exam and assessment platform with separate teacher and student workflows, AI que
 | **Stack** | Laravel 12 &middot; Livewire 4 &middot; PostgreSQL + pgvector &middot; multi-provider AI &middot; Render |
 | **Scale** | Role-based permissions, server-side exam timing, AI usage controls, automated tests |
 | **Impact** | Semantic similarity search, CSV question import, results and leaderboards |
-| **Links** | [Live demo](https://ai-quiz-engine-b049.onrender.com) &middot; [Repo](https://github.com/TheZohaibKhan/AI-Quiz-Engine) |
+| **Links** | [Live demo](https://ai-quiz-engine-delta.vercel.app/) &middot; [Repo](https://github.com/TheZohaibKhan/AI-Quiz-Engine) |
 
 </details>
 
@@ -117,7 +117,7 @@ Multi-agent system that turns a natural-language travel request into a structure
 | **Stack** | LangGraph &middot; OpenAI Agents SDK &middot; Gemini &middot; Streamlit &middot; Supabase |
 | **Scale** | Specialised agents for each part of the trip, coordinated by an orchestrator |
 | **Impact** | Budget-aware itineraries with alternatives and day-by-day schedules |
-| **Repo** | [openai-agents-travel-graph](https://github.com/TheZohaibKhan/openai-agents-travel-graph) |
+| **Links** | [Live demo](https://zohaib-travel-planner.streamlit.app/) &middot; [Repo](https://github.com/TheZohaibKhan/openai-agents-travel-graph) |
 
 </details>
 
